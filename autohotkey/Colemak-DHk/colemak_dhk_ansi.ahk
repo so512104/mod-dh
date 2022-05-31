@@ -22,11 +22,11 @@ SC025::e
 SC026::i
 SC027::o
 
-SC02c::x
-SC02d::c
+SC02c::z
+SC02d::x
 SC02e::d
-;SC02f::v
-SC030::z
+;SC02f::c
+SC030::v
 SC031::m
 SC032::h
 
